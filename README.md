@@ -1,7 +1,7 @@
 # PUL-Token
 ERC20 PlusUltra Token PUL
 
-Read Contract Information[Reset]
+Read Contract Information
 
 1. name   PlusUltra Token string
 2. totalSupply   20000000 uint256
@@ -22,3 +22,7 @@ c uint256
 remaining uint256
 13. safeAdd   ,  
 c uint256
+
+
+
+https://etherscan.io/token/0xac8a812257fd80192de67f7ae27facfa76d5cc9f
